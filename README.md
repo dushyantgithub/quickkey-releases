@@ -14,6 +14,7 @@ Each build is created automatically from the private QuickKey source repository.
 | Version | macOS | Windows |
 |---|---|---|
 <!-- releases -->
+| 1.0.0-build.5 | [macOS universal](https://github.com/dushyantgithub/quickkey-releases/releases/download/v1.0.0-build.5/QuickKey-1.0.0-build.5-mac-universal.zip) | [Windows x64](https://github.com/dushyantgithub/quickkey-releases/releases/download/v1.0.0-build.5/QuickKey-1.0.0-build.5-win-x64.exe) |
 | 1.0.0-build.4 | [macOS universal](https://github.com/dushyantgithub/quickkey-releases/releases/download/v1.0.0-build.4/QuickKey-1.0.0-build.4-mac-universal.zip) | [Windows x64](https://github.com/dushyantgithub/quickkey-releases/releases/download/v1.0.0-build.4/QuickKey-1.0.0-build.4-win-x64.exe) |
 | 1.0.0-build.3 | [macOS universal](https://github.com/dushyantgithub/quickkey-releases/releases/download/v1.0.0-build.3/QuickKey-1.0.0-build.3-mac-universal.zip) | [Windows x64](https://github.com/dushyantgithub/quickkey-releases/releases/download/v1.0.0-build.3/QuickKey-1.0.0-build.3-win-x64.exe) |
 
